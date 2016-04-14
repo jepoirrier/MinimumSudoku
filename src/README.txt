@@ -1,0 +1,1 @@
+MinimumSudoku, a game written by Jean-Etienne Poirrier - more info on http://www.poirrier.be/~jean-etienne/software/minimumsudoku/
